@@ -12,7 +12,7 @@ class ColorsTableVC: UIViewController {
     
     var colors: [UIColor] = []
     
-    // using enum to store info in variables to deter making string mistakes 
+    // using enum to store info in variables to deter making string mistakes
     enum Cells {
         static let ColorCell = "ColorCell"
     }
